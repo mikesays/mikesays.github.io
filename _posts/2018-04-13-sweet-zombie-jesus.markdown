@@ -18,4 +18,4 @@ _Bahamian; Futurama_
 
 ### Example
 
-_Sweet Zomie Jesus Jon! Did you really create sh!tmikesays.org?!?_ 
+_Sweet Zombie Jesus Jon! Did you really create sh!tmikesays.org?!?_ 
