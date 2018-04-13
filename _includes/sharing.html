@@ -1,0 +1,27 @@
+<style type="text/css" media="screen">
+ul.share-buttons{
+  list-style: none;
+  padding: 0;
+}
+
+ul.share-buttons li{
+  display: inline;
+}
+
+ul.share-buttons .sr-only{
+  position: absolute;
+  clip: rect(1px 1px 1px 1px);
+  clip: rect(1px, 1px, 1px, 1px);
+  padding: 0;
+  border: 0;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+}
+</style>
+
+<ul class="share-buttons">
+  <li><a href="https://twitter.com/intent/tweet?source={{ site.url }}&text={{ page.title }}&url={{ site.url }}{{ site.baseurl }}{{ page.url }}&via=mkrafick" target="_blank" title="Tweet"><img alt="Tweet" src="/images/flat_web_icon_set/color/Twitter.png" /></a></li>
+  <li><a href="https://plus.google.com/share?url={{ site.url }}{{ site.baseurl }}{{ page.url }}" target="_blank" title="Share on Google+"><img alt="Share on Google+" src="/images/flat_web_icon_set/color/Google+.png" /></a></li>
+  <li><a href="http://www.reddit.com/submit?url={{ site.url }}{{ site.baseurl }}{{ page.url }}&title={{ page.title }}" target="_blank" title="Submit to Reddit"><img alt="Submit to Reddit" src="/images/flat_web_icon_set/color/Reddit.png" /></a></li>
+</ul>

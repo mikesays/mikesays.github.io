@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sharable_post
 title:  "Going Around my Elbow to Get to my Butt"
 date:   2018-04-13 13:35:23 -0400
 categories: mike aphorisms butt elbow
@@ -17,4 +17,4 @@ _May be a Georgia thing._
 
 ### Example
 
-_SSH into QA HA DB and then SSH to QA Primary DB. Going around my elbow to get to my butt, but it worked._ 
+_SSH into QA HA DB and then SSH to QA Primary DB. Going around my elbow to get to my butt, but it worked._
