@@ -17,5 +17,6 @@ _Pretty basic language, easily accessible to all dialects of US vernacular._
 
 ### Example
 
-_Hey, I extended that filesystem you asked about. Should be good to go._
-_You Rock! Thank you._
+Me: _Hey, I extended that filesystem you asked about. Should be good to go._
+
+He: _You Rock! Thank you._
