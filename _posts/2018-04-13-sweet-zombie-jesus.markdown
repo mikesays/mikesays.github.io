@@ -2,7 +2,7 @@
 layout: sharable_post
 title:  "Sweet Zombie Jesus!"
 date:   2018-04-13 13:49:00 -0400
-categories: mike aphorisms zombie jesus
+categories: expletives
 
 ---
 

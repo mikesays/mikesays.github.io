@@ -2,7 +2,7 @@
 layout: sharable_post
 title:  "Going Around my Elbow to Get to my Butt"
 date:   2018-04-13 13:35:23 -0400
-categories: mike aphorisms butt elbow
+categories: aphorisms
 ---
 
 _Going around my elbow to get to my butt, but it worked_
