@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sharable_post
 title:  "Sweet Zombie Jesus!"
 date:   2018-04-13 13:49:00 -0400
 categories: mike aphorisms zombie jesus
@@ -18,4 +18,4 @@ _Bahamian; Futurama_
 
 ### Example
 
-_Sweet Zomie Jesus Jon! Did you really create sh!tmikesays.org?!?_ 
+_Sweet Zomie Jesus Jon! Did you really create sh!tmikesays.org?!?_
