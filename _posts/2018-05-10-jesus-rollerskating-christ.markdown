@@ -9,7 +9,7 @@ _Jesus Rollerskating Christ, Brian!_
 
 ### Meaning
 
-Astonishment with something unbelievably good or above-and-beyond. A combination of the expression of surprise and praise.
+Astonishment with something unbelievably good or above-and-beyond; a combination of the expression of surprise and praise.
 
 ### Etymology
 
